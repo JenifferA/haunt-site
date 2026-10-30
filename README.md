@@ -1,2 +1,2 @@
 # haunt-site
-haunt-site
+haunt blog site
